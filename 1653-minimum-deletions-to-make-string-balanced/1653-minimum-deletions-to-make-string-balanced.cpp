@@ -1,6 +1,6 @@
 class Solution {
 public:
-// Use stack to find out if 'ba' is exist
+//  Find out if 'ba' is exist and count it
     int minimumDeletions(string s) {
         int countB = 0;
         int count = 0;
