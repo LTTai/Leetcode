@@ -1,12 +1,13 @@
 class Solution {
 public:
+// Use stack to find out if 'ba' is exist
     int minimumDeletions(string s) {
-        stack<char> temp;
+        int countB = 0;
         int count = 0;
         for (const auto x: s) {
-            if(x == 'b') temp.push('b');
-            else if(!temp.empty()) {
-                temp.pop();
+            if(x == 'b') countB++;
+            else if(countB != 0) {
+                countB--;
                 count++;
             }
         }
