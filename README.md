@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LTTai/Leetcode/tree/master/0001-two-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/LTTai/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0860-lemonade-change](https://github.com/LTTai/Leetcode/tree/master/0860-lemonade-change) |
+| [1895-largest-magic-square](https://github.com/LTTai/Leetcode/tree/master/1895-largest-magic-square) |
 ## Greedy
 |  |
 | ------- |
@@ -47,8 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/LTTai/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1895-largest-magic-square](https://github.com/LTTai/Leetcode/tree/master/1895-largest-magic-square) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/LTTai/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1895-largest-magic-square](https://github.com/LTTai/Leetcode/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
