@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LTTai/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/LTTai/Leetcode/tree/master/0860-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/LTTai/Leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
